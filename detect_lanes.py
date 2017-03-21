@@ -241,7 +241,7 @@ avg_top_left_y = 0
 avg_bottom_left_x = 0
 avg_bottom_left_y = 0
 
-directory = '/Users/sitaraassomull/Code/udacity/nanodegree/p1-project/'
+directory = '/Code/udacity/'
 img_folder = directory + 'test_images/'
 
 imshape = []
